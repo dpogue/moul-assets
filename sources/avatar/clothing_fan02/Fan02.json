@@ -1440,7 +1440,7 @@
           "icon": "",
           "tint1": [1.0, 1.0, 1.0],
           "tint2": [1.0, 1.0, 1.0],
-          "desc": "ColorLabel1=; ColorLabel2=; GroupName=ArtistRobe; ClothingSet=ArtistRobe;",
+          "desc": "ColorLabel1=; ColorLabel2=; GroupName=ArtistRobe; ClothingSet=ArtistRobe; nonStandard",
           "text": "Artist Robe",
           "meshes": [
             {
@@ -1478,7 +1478,7 @@
           "icon": "",
           "tint1": [1.0, 1.0, 1.0],
           "tint2": [1.0, 1.0, 1.0],
-          "desc": "ColorLabel1=; ColorLabel2=; ClothingSet=ArtistRobe;",
+          "desc": "ColorLabel1=; ColorLabel2=; ClothingSet=ArtistRobe; nonStandard",
           "text": "Artist Robe Pants",
           "meshes": [
             {
@@ -2910,7 +2910,7 @@
           "icon": "",
           "tint1": [1.0, 1.0, 1.0],
           "tint2": [1.0, 1.0, 1.0],
-          "desc": "ColorLabel1=; ColorLabel2=; GroupName=ArtistRobe; ClothingSet=ArtistRobe;",
+          "desc": "ColorLabel1=; ColorLabel2=; GroupName=ArtistRobe; ClothingSet=ArtistRobe; nonStandard",
           "text": "Artist Robe",
           "meshes": [
             {
@@ -2948,7 +2948,7 @@
           "icon": "",
           "tint1": [1.0, 1.0, 1.0],
           "tint2": [1.0, 1.0, 1.0],
-          "desc": "ColorLabel1=; ColorLabel2=; ClothingSet=ArtistRobe;",
+          "desc": "ColorLabel1=; ColorLabel2=; ClothingSet=ArtistRobe; nonStandard",
           "text": "Artist Robe Pants",
           "meshes": [
             {
